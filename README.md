@@ -1,7 +1,9 @@
 # Book parser
 
 You need to design and code application that reads files of different format into domain objects
+
 Bear in mind that design should be object-oriented and needs to support adding new file formats in furture
+
 It should be a console app that takes file name as console argument
 
 
