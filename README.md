@@ -29,7 +29,7 @@ It should be a console app that takes file name as console argument
 }
 ```
 
-*books.txt*
+*books.csv*
 
 ```csv
 Java,Eckel,2004,500
